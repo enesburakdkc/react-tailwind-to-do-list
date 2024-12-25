@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    @apply bg-gray-100;
+}
+
+body {
+    @apply flex justify-center items-center h-screen;
+}
